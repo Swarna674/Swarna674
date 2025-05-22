@@ -22,7 +22,7 @@
 
   ## 🗂️ Portfolio Highlights
 
-### 🔹 [Customer Segmentation Dashboard](https://github.com/yourusername/customer-segmentation)
+### 🔹 [Customer Segmentation Dashboard](https://github.com/Swarna674/customer-segmentation)
 > 📍 Who buys, why they buy, and who brings in the real profits.  
 > Power BI dashboard that uses maps, KPIs, and key influencers to show customer value segments.
 
