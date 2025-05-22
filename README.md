@@ -36,7 +36,14 @@ Power BI dashboard that breaks down sales by region, customer type, and payment 
 Includes KPIs, trend lines, and visual slices to track what’s selling, who’s buying, and where the money’s flowing.
 Great for managers, marketing, and anyone who likes colorful bar charts with actual meaning.
 
-### 🔹 [Customer Churn Analysis in Telecom Industry](https://github.com/Swarna674/Customer-Churn_Telecom)
+### 🔹 [Customer Churn Analysis in Telecom Industry](https://github.com/Swarna674/Customer-Churn-Telecom)
+📉 "Stop the scroll before they port out!"
+A machine learning model that predicts which telecom customers are likely to leave — and why.
+Built in Google Colab using Python, logistic regression, and a dash of insight.
+Translates technical churn metrics into real-world business decisions (like who to call before they cancel).
+Includes EDA, feature engineering, model evaluation, and actionable recommendations.
+
+
 
 *(More dashboards in progress. My “Downloads” folder is packed.)*
 
