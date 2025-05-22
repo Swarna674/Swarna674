@@ -22,13 +22,21 @@
 
   ## 🗂️ Portfolio Highlights
 
-### 🔹 [Customer Segmentation Dashboard](https://github.com/Swarna674/customer-segmentation)
+### 🔹 [Customer Segmentation Dashboard](https://github.com/Swarna674/Customer-Segmentation)
 > 📍 Who buys, why they buy, and who brings in the real profits.  
 > Power BI dashboard that uses maps, KPIs, and key influencers to show customer value segments.
 
-### 🔹 [Employee Performance Dashboard](https://github.com/yourusername/employee-performance)
+### 🔹 [Employee Performance Dashboard](https://github.com/Swarna674/EMPLOYEE-PERFORMANCE)
 > 👥 Which teams are thriving, who's on fire (the good kind), and where effort meets output.  
 > Great for HR and operations tracking.
+
+### 🔹 [Sales Dashboard](https://github.com/Swarna674/Sales-dashboard-PowerBI)
+ "Because sales data shouldn't be boring."
+Power BI dashboard that breaks down sales by region, customer type, and payment method.
+Includes KPIs, trend lines, and visual slices to track what’s selling, who’s buying, and where the money’s flowing.
+Great for managers, marketing, and anyone who likes colorful bar charts with actual meaning.
+
+### 🔹 [Customer Churn Analysis in Telecom Industry](https://github.com/Swarna674/Customer-Churn_Telecom)
 
 *(More dashboards in progress. My “Downloads” folder is packed.)*
 
