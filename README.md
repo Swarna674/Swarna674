@@ -1,15 +1,17 @@
 # 👋 Hello there, I'm Swarna
 
-📊I turn "meh" spreadsheets into "wow" dashboards. 
+📊 I turn "meh" spreadsheets into "wow" dashboards and "huh?" datasets into "aha!" insights. 
 🎓 MBA in Marketing & Analytics | 🧪 BSc in Botany (yes, I like both plants and plots)  
-💼 Data & BI Enthusiast | 🌱 Freelance-ready | ☕ Dashboard-fueled
+💼 Data & BI Enthusiast | 🌱 Freelance-ready | ☕ Dashboard-fueled & Python-curious
 
 ## 🧠 What I Do (And Love)
 
 - Design **insightful, clean Power BI dashboards** for business intelligence
 - Explore data like a detective — segment, analyze, visualize
+- Build **Marketing Analytics projects** like churn prediction & sentiment analysis & Customer retention
 - Blend **marketing logic + analytics skills** for practical impact
 - Build stories from spreadsheets using **DAX, Excel, and basic SQL**
+- Use data like a detective — find trends, solve problems, tell stories
 - Turn client confusion into “Ohhh, now I see!”
 
 ## 🚀 Currently
@@ -37,6 +39,7 @@
 - **DAX** – Like solving puzzles  
 - **Canva** – For clean covers and visuals  
 - **SQL (basic)** – Just enough to get the job done
+-  **Python (learning)** – For churn, NLP, and predictive flair 
   
 ## 🎯 Ideal Projects
 
