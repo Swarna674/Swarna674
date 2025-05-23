@@ -74,7 +74,7 @@
 - 📧 Email: swarnamayeekar121@gmail.com 
 - 💼 LinkedIn: www.linkedin.com/in/swarnamayee-kar-7827a5282
 - 💻 GitHub: https://github.com/Swarna674
-- 🗣️ Portfolio:https://bit.ly/Swarna-portfolio
+- 🗣️ Portfolio:[https://bit.ly/Swarna-portfolio](https://cat-cougar-763.notion.site/My-Journey-From-Plants-to-Plots-to-Python-1fc79affe1a68060819fc945b08ab02c?pvs=4)
 
 ## 💬 Fun Facts
 
