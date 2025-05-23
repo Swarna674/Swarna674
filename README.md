@@ -74,6 +74,7 @@
 - 📧 Email: swarnamayeekar121@gmail.com 
 - 💼 LinkedIn: www.linkedin.com/in/swarnamayee-kar-7827a5282
 - 💻 GitHub: https://github.com/Swarna674
+- 🗣️ Portfolio:https://bit.ly/Swarna-portfolio
 
 ## 💬 Fun Facts
 
